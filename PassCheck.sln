@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PassCheck", "PassCheck\PassCheck.vcxproj", "{BCF62DCB-93E6-40D1-9D2D-1ADFC34B9272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF62DCB-93E6-40D1-9D2D-1ADFC34B9272}.Debug|x64.ActiveCfg = Debug|x64
+		{BCF62DCB-93E6-40D1-9D2D-1ADFC34B9272}.Debug|x64.Build.0 = Debug|x64
+		{BCF62DCB-93E6-40D1-9D2D-1ADFC34B9272}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCF62DCB-93E6-40D1-9D2D-1ADFC34B9272}.Debug|x86.Build.0 = Debug|Win32
+		{BCF62DCB-93E6-40D1-9D2D-1ADFC34B9272}.Release|x64.ActiveCfg = Release|x64
+		{BCF62DCB-93E6-40D1-9D2D-1ADFC34B9272}.Release|x64.Build.0 = Release|x64
+		{BCF62DCB-93E6-40D1-9D2D-1ADFC34B9272}.Release|x86.ActiveCfg = Release|Win32
+		{BCF62DCB-93E6-40D1-9D2D-1ADFC34B9272}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {376A9C99-3DB4-4291-939D-A998C5A8F31B}
+	EndGlobalSection
+EndGlobal
